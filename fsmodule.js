@@ -23,3 +23,4 @@ const fs = require('fs');
 
 // fs.writeFileSync('myFile.txt',"This the data written in the file by sync.");
 // console.log("Successfully wrtitten to the file.");
+

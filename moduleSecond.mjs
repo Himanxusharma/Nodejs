@@ -1,3 +1,10 @@
+// for common js
+// function simple(){
+//     console.log("Simple is calling");
+// }
+// module.exports = simple;
+
+
 export function simple(){
     console.log("Simple is calling");
 }
